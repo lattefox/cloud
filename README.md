@@ -1,2 +1,2 @@
 # Cloud
-A cloud storage for assets like images，js，css，icon.
+A cloud storage for assets like Images，JS，CSS，Icon.
